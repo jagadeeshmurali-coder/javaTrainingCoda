@@ -1,0 +1,2 @@
+# javaTrainingCoda
+Training exercises
